@@ -54,3 +54,5 @@ $ git push origin 전송할branch명
 # 복제(clone)
 ## 복제하기(생성할 곳을 미리 지정)
 $ git clone https://github.com/Jgone2/markdown.git
+
+## 충돌
