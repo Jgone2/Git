@@ -46,8 +46,8 @@ git add .
 # 버전 생성
 ## 메시지(-m)와 함께 버전을 생성
 ```
-git commit -m '프로젝트 생성'<br />
-git commit -m 'main.js 추가'<br />
+git commit -m '프로젝트 생성'
+git commit -m 'main.js 추가'
 git commit -m 'index.html 수정'
 ```
 ## 버전 내역 확인
