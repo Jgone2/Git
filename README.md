@@ -1,19 +1,19 @@
 ## 개행 문자(NewLine) 설정
 ## macOS
-```
+```bash
 git config --global core.autocrlf input
 ```
 ## Windows
-```
+```bash
 git config --global core.autocrlf true
 ```
 
 # 사용자 정보
 ## 커밋(버전 생성)을 위한 정보 등록
-```
+```zsh
 git config --global user.name 'Git Name과 동일하게 하는 것이 좋음'
 ```
-```
+```zsh
 git config --global user.email 'Git 계정에 사용된 mail'
 ```
 
