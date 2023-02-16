@@ -60,6 +60,17 @@ git add index.html
 git add .
 ```
 
+## Staged 상태 확인(git add 된 상태)
+```zsh
+git status
+```
+
+## Staged 상태 취소
+```zsh
+git rm --cached 파일명
+```
+
+
 # 버전 생성
 
 ## 메시지(-m)와 함께 버전을 생성
