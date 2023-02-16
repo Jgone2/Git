@@ -156,7 +156,7 @@ git checkout -b branch명
 git merge branch명
 ```
 
-> 💡 branch를 합병할 때, conflict(충돌)을 조심해야합니다.
+> 💡 branch를 합병할 때, conflict(충돌)을 조심
 
 ## branch 병합 취소
 
