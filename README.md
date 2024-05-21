@@ -192,4 +192,12 @@ git pull
 git stash   //git stash list로 목록확인도 가능
 ```
 
+# 로컬에서 원격 브랜치 불러오기(fetch)
+
+```zsh
+git fetch
+```
+
+> 💡 원격 저장소에 있는 git branch들을 로컬로 불러와서 적용
+
 ## 충돌
