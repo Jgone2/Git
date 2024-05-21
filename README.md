@@ -109,7 +109,7 @@ git remote add origin 원격저장소url
 ## origin이란 별칭의 원격 저장소로 버전 내역 전송
 
 ```zsh
-git push origin master
+git push origin main
 ```
 
 # Branch
